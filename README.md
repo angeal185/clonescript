@@ -8,8 +8,8 @@
 # Documentation
 
 - [About](#about)
-- [Installation](#initialization)
-- [Setup](#build)
+- [Installation](#installation)
+- [Setup](#setup)
 - [Element basic](#element-basic)
 - [Element id](#element-id)
 - [Element class](#element-class)
@@ -28,6 +28,34 @@ Clonescript works directly with the dom to allow you to produece event driven ht
 * about as close to using vanilla js speed as it gets.
 
 # Installation
+
+npm
+
+stable release
+
+```sh
+$ npm install clonescript --save
+```
+
+dev release
+
+git
+```sh
+$ git clone https://github.com/angeal185/clonescript.git
+```
+
+browser
+
+```html
+<html>
+  <head>
+    <meta charset="utf-8">
+    <script src="/path/to/clonescript.mjs" type="module"></script>
+    <!--- or --->
+    <script src="/path/to/clonescript.js"></script>
+  </head>
+</html>
+```
 
 # Setup
 The `eles` const should contain a list of all your used element tags.
