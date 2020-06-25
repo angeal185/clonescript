@@ -89,7 +89,7 @@ These will be generated once and then cloned at every call for that element.
  **/
 
 /**
- *  @cs.val() ~ returns html object
+ *  @cs.val() ~ returns html to be appended to page
  **/
 ```
 
@@ -102,6 +102,8 @@ let x = cs.clone('p', 'example plain text').val();
 
 console.log(x)
 // <p>example plain text</p>
+
+document.body.append(x)
 
 ```
 
