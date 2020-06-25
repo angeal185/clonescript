@@ -217,7 +217,7 @@ console.log(x);
 */
 ```
 
-[cd-img]: https://app.codacy.com/project/badge/Grade/d0ce4b5a5c874755bb65af1e2d6dfa87
+[cd-img]: https://app.codacy.com/project/badge/Grade/e306036b67264c03a4a0f3e346c677af
 [npm-img]: https://badgen.net/npm/v/clonescript?style=flat-square
 [dep-img]:https://badgen.net/david/dep/angeal185/clonescript?style=flat-square
 [sz-img]:https://badgen.net/packagephobia/publish/clonescript?style=flat-square
