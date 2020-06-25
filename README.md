@@ -4,6 +4,9 @@
 #### A lightning fast, ultra small javascript template engine
 #### for when speed matters.
 
+![cd-img] ![dep-img] ![sz-img]
+
+[![NPM Version][npm-img]][npm-url] ![lic-img]
 
 # Documentation
 
@@ -213,3 +216,10 @@ console.log(x);
 </p>
 */
 ```
+
+[cd-img]: https://app.codacy.com/project/badge/Grade/d0ce4b5a5c874755bb65af1e2d6dfa87
+[npm-img]: https://badgen.net/npm/v/clonescript?style=flat-square
+[dep-img]:https://badgen.net/david/dep/angeal185/clonescript?style=flat-square
+[sz-img]:https://badgen.net/packagephobia/publish/clonescript?style=flat-square
+[lic-img]: https://badgen.net/github/license/angeal185/clonescript?style=flat-square
+[npm-url]: https://npmjs.org/package/clonescript
