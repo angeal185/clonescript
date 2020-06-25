@@ -10,7 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/angeal185/clonescript.git"
   },
-  "keywords": ["javascript", "template-engine", "browser", "minimal", "templating"],
+  "keywords": [
+    "javascript", "template-engine", "browser", "minimal", "templating"
+  ],
   "author": "ben eaves",
   "license": "MIT",
   "bugs": {
